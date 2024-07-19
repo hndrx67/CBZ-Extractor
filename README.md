@@ -10,11 +10,11 @@ A Simple "CBZ" Comic Book Zip Extractor (Ganyu themed)
 - **Browse your CBZ File**: any comic book zip file will do.
 - **Click the Extract button**: after clicking you can see the progress bar doing its thing.
 
-##Contributing
-Contributions are welcome! Please open an issue or submit a pull request.
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request. maybe.
 
-##License
-This project is licensed under the GNU General Public License.
+## License
+This project is licensed under the GNU General Public License. maybe.
 
 ```bash
 MADE USING PYTHON
